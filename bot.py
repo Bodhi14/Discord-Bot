@@ -2,8 +2,6 @@ import discord
 import random
 import pyjokes
 
-TOKEN = "OTcyNTA3Njk0MzE1NDc1MDA2.GCshMl.cMk_Fg5d11IIhiH3SCiiinwODpe_aRrnlQ6_xs"
-
 client = discord.Client()
 
 @client.event
